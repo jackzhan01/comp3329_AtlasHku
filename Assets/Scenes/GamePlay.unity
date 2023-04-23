@@ -607,12 +607,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wildPokemons:
-  - pokemon: {fileID: 11400000, guid: b0f06cb1aa0571b43a653effe2b494b6, type: 2}
+  - pokemon: {fileID: 11400000, guid: 3023f48cfed26a74aaadb7daee10aa74, type: 2}
+    levelRange: {x: 4, y: 7}
+    chancePercentage: 50
+  - pokemon: {fileID: 11400000, guid: 8465ce168eb24ca47afe98125f5d2d2e, type: 2}
     levelRange: {x: 2, y: 4}
-    chancePercentage: 100
+    chancePercentage: 50
   wildPokemonsInWater:
-  - pokemon: {fileID: 11400000, guid: 74048fb159f540645a522b709b32a4a4, type: 2}
-    levelRange: {x: 2, y: 4}
+  - pokemon: {fileID: 0}
+    levelRange: {x: 0, y: 0}
     chancePercentage: 100
   totalChance: 100
   totalChanceWater: 100

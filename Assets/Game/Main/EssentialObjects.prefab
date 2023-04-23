@@ -3643,13 +3643,13 @@ PrefabInstance:
         type: 3}
       propertyPath: pokemons.Array.data[0]._base
       value: 
-      objectReference: {fileID: 11400000, guid: 403bee928c965d44e9f476be2b3b070b,
+      objectReference: {fileID: 11400000, guid: 3023f48cfed26a74aaadb7daee10aa74,
         type: 2}
     - target: {fileID: 6105532441140382693, guid: e05ad46a77e7c3847a90d12bf435eb6d,
         type: 3}
       propertyPath: pokemons.Array.data[1]._base
       value: 
-      objectReference: {fileID: 11400000, guid: b43f8a6a5fe68b84b9b427afc71dae0a,
+      objectReference: {fileID: 11400000, guid: 8465ce168eb24ca47afe98125f5d2d2e,
         type: 2}
     - target: {fileID: 6105532441140382696, guid: e05ad46a77e7c3847a90d12bf435eb6d,
         type: 3}
@@ -3709,6 +3709,16 @@ PrefabInstance:
     - target: {fileID: 6105532441140382698, guid: e05ad46a77e7c3847a90d12bf435eb6d,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6105532442381884508, guid: e05ad46a77e7c3847a90d12bf435eb6d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6105532442381884508, guid: e05ad46a77e7c3847a90d12bf435eb6d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6679578988618885736, guid: e05ad46a77e7c3847a90d12bf435eb6d,
