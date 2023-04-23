@@ -735,7 +735,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 790104c3b71eeb34181c2713914fd933, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 53f4440d103c4b24b8ac978aa52c5fb7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3429,7 +3429,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &8201781112251465045
 Transform:
   m_ObjectHideFlags: 0
@@ -3473,7 +3473,7 @@ MonoBehaviour:
   trainerBattleMusic: {fileID: 0}
   battleVictoryMusic: {fileID: 8300000, guid: 3129422975994094a98773a2d8e6429c, type: 3}
   backgroundImage: {fileID: 8201781110554860625}
-  grassBackground: {fileID: 21300000, guid: 790104c3b71eeb34181c2713914fd933, type: 3}
+  grassBackground: {fileID: 21300000, guid: 53f4440d103c4b24b8ac978aa52c5fb7, type: 3}
   waterBackground: {fileID: 21300000, guid: 9927d3e6f9d50554aac828e833c68a46, type: 3}
 --- !u!1 &8201781112307838007
 GameObject:

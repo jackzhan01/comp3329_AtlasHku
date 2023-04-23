@@ -614,8 +614,8 @@ MonoBehaviour:
     levelRange: {x: 2, y: 4}
     chancePercentage: 50
   wildPokemonsInWater:
-  - pokemon: {fileID: 0}
-    levelRange: {x: 0, y: 0}
+  - pokemon: {fileID: 11400000, guid: 139ef111fae227c41a88253b1cc55d0b, type: 2}
+    levelRange: {x: 17, y: 21}
     chancePercentage: 100
   totalChance: 100
   totalChanceWater: 100
