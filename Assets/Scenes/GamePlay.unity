@@ -517,6 +517,28 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3324374432350640268, guid: 76a39e2603d68a549b34befa53e7129e,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 230
+      objectReference: {fileID: 0}
+    - target: {fileID: 3324374432350640268, guid: 76a39e2603d68a549b34befa53e7129e,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 139
+      objectReference: {fileID: 0}
+    - target: {fileID: 3324374432350640269, guid: 76a39e2603d68a549b34befa53e7129e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3324374432551411006, guid: 76a39e2603d68a549b34befa53e7129e,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Hi Jack. I am Prof. Hubert. We are trapped in a virtual world of HKU,
+        which is created by an Evil AI Csatan. As you already know, Csatan controls
+        many professors and creates evil elves. '
+      objectReference: {fileID: 0}
     - target: {fileID: 8201781111105075196, guid: 76a39e2603d68a549b34befa53e7129e,
         type: 3}
       propertyPath: m_Name
@@ -615,11 +637,22 @@ PrefabInstance:
       propertyPath: pokemons.Array.data[2].level
       value: 21
       objectReference: {fileID: 0}
+    - target: {fileID: 8201781111280809263, guid: 76a39e2603d68a549b34befa53e7129e,
+        type: 3}
+      propertyPath: name
+      value: Jack
+      objectReference: {fileID: 0}
     - target: {fileID: 8201781112251465044, guid: 76a39e2603d68a549b34befa53e7129e,
         type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8201781112251465046, guid: 76a39e2603d68a549b34befa53e7129e,
+        type: 3}
+      propertyPath: grassBackground
+      value: 
+      objectReference: {fileID: 21300000, guid: 3eca1f90b49dbf04b98484052b037758,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76a39e2603d68a549b34befa53e7129e, type: 3}
 --- !u!1 &1843013631 stripped
