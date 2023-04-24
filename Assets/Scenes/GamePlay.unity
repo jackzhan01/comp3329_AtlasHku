@@ -142,14 +142,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wildPokemons:
-  - pokemon: {fileID: 11400000, guid: b0f06cb1aa0571b43a653effe2b494b6, type: 2}
+  - pokemon: {fileID: 11400000, guid: 8baa4038902e6d244950fb400c84c950, type: 2}
     levelRange: {x: 2, y: 4}
     chancePercentage: 70
+  - pokemon: {fileID: 11400000, guid: 8487ad101aaf8da40b1b0625718dd432, type: 2}
+    levelRange: {x: 3, y: 5}
+    chancePercentage: 30
   - pokemon: {fileID: 11400000, guid: 74048fb159f540645a522b709b32a4a4, type: 2}
     levelRange: {x: 3, y: 5}
     chancePercentage: 30
   wildPokemonsInWater: []
-  totalChance: 100
+  totalChance: 130
   totalChanceWater: -1
 --- !u!1 &45088998 stripped
 GameObject:
@@ -198,13 +201,18 @@ PrefabInstance:
     - target: {fileID: 1133004729654675478, guid: 5f6b707dee1768e47874d650cd2dceb0,
         type: 3}
       propertyPath: connectedScenes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1133004729654675478, guid: 5f6b707dee1768e47874d650cd2dceb0,
         type: 3}
       propertyPath: connectedScenes.Array.data[0]
       value: 
       objectReference: {fileID: 1046385017}
+    - target: {fileID: 1133004729654675478, guid: 5f6b707dee1768e47874d650cd2dceb0,
+        type: 3}
+      propertyPath: connectedScenes.Array.data[1]
+      value: 
+      objectReference: {fileID: 1428468558}
     - target: {fileID: 1133004729654675479, guid: 5f6b707dee1768e47874d650cd2dceb0,
         type: 3}
       propertyPath: m_Size.x
@@ -410,13 +418,18 @@ PrefabInstance:
     - target: {fileID: 1133004729654675478, guid: 5f6b707dee1768e47874d650cd2dceb0,
         type: 3}
       propertyPath: connectedScenes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1133004729654675478, guid: 5f6b707dee1768e47874d650cd2dceb0,
         type: 3}
       propertyPath: connectedScenes.Array.data[0]
       value: 
       objectReference: {fileID: 1325615342}
+    - target: {fileID: 1133004729654675478, guid: 5f6b707dee1768e47874d650cd2dceb0,
+        type: 3}
+      propertyPath: connectedScenes.Array.data[1]
+      value: 
+      objectReference: {fileID: 1307835742}
     - target: {fileID: 1133004729654675480, guid: 5f6b707dee1768e47874d650cd2dceb0,
         type: 3}
       propertyPath: m_RootOrder
