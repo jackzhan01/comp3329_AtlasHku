@@ -771,7 +771,7 @@ PrefabInstance:
     - target: {fileID: 1133004729654675478, guid: 5f6b707dee1768e47874d650cd2dceb0,
         type: 3}
       propertyPath: connectedScenes.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1133004729654675478, guid: 5f6b707dee1768e47874d650cd2dceb0,
         type: 3}
@@ -783,6 +783,11 @@ PrefabInstance:
       propertyPath: connectedScenes.Array.data[1]
       value: 
       objectReference: {fileID: 1307835742}
+    - target: {fileID: 1133004729654675478, guid: 5f6b707dee1768e47874d650cd2dceb0,
+        type: 3}
+      propertyPath: connectedScenes.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 1133004729654675480, guid: 5f6b707dee1768e47874d650cd2dceb0,
         type: 3}
       propertyPath: m_RootOrder
