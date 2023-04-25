@@ -1382,6 +1382,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Healer
       objectReference: {fileID: 0}
+    - target: {fileID: 8307941782266318810, guid: b018929b598059b4094cde9873294efc,
+        type: 3}
+      propertyPath: defaultDirection
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8307941782266318812, guid: b018929b598059b4094cde9873294efc,
         type: 3}
       propertyPath: questToComplete
@@ -5306,6 +5311,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Merchant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307941782266318810, guid: b018929b598059b4094cde9873294efc,
+        type: 3}
+      propertyPath: defaultDirection
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8307941782266318812, guid: b018929b598059b4094cde9873294efc,
         type: 3}

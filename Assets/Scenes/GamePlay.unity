@@ -179,8 +179,8 @@ MonoBehaviour:
   - pokemon: {fileID: 11400000, guid: 843145d9c56bc0344b6d723e31f7f209, type: 2}
     levelRange: {x: 11, y: 15}
     chancePercentage: 30
-  - pokemon: {fileID: 11400000, guid: b0f06cb1aa0571b43a653effe2b494b6, type: 2}
-    levelRange: {x: 2, y: 4}
+  - pokemon: {fileID: 11400000, guid: 2da50f17eb9327f4b9f2782338064b5d, type: 2}
+    levelRange: {x: 20, y: 26}
     chancePercentage: 10
   wildPokemonsInWater: []
   totalChance: 100
@@ -517,6 +517,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2134031174918119760, guid: 76a39e2603d68a549b34befa53e7129e,
+        type: 3}
+      propertyPath: money
+      value: 5000
+      objectReference: {fileID: 0}
     - target: {fileID: 3324374432350640268, guid: 76a39e2603d68a549b34befa53e7129e,
         type: 3}
       propertyPath: m_SizeDelta.y
@@ -613,7 +618,7 @@ PrefabInstance:
     - target: {fileID: 8201781111280809249, guid: 76a39e2603d68a549b34befa53e7129e,
         type: 3}
       propertyPath: pokemons.Array.data[0].level
-      value: 10
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8201781111280809249, guid: 76a39e2603d68a549b34befa53e7129e,
         type: 3}
